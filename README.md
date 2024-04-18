@@ -3,9 +3,13 @@
 **Email**: n.isyanbaev@innopolis.university
 ## Solution 1
 ### How to run
-bla-bla
+Go to the root folder of repository and run.
+```console
+python run_solution.py --test_file_path <Path to test file>
+```
 ## Solution 2
 ### How to run
-bla-bla
+Go to Kaggle or Google notebook and follow run cells of notebook sequentially. <br/>
+(Do not forget to change Google drive paths to yours)
 ## Report
 **Link to report**: it will be here soon
