@@ -11,5 +11,3 @@ python run_solution.py --test_file_path <Path to test file>
 ### How to run
 Go to Kaggle or Google notebook and follow run cells of notebook sequentially. <br/>
 (Do not forget to change Google drive paths to yours)
-## Report
-**Link to report**: it will be here soon
